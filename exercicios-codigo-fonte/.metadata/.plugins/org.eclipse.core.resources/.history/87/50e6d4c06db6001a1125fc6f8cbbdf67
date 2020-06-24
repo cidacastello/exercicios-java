@@ -7,11 +7,11 @@ public class AppCircunferencia {
 	public static void main(String[] args) {
 
 		/*
-			 Declara um objeto do tipo Scanner nomedado sc
+			 Declara um objeto do tipo Scanner nomedado teclado
 			 para obter a entrada de dados a partir da janela (terminal) de comando
 		 */
 		
-		Scanner sc = new Scanner(System.in);
+		Scanner teclado = new Scanner(System.in);
 		
 		// declaração das variáveis
 		double raio, area, comprimento;
@@ -19,7 +19,7 @@ public class AppCircunferencia {
 		//entrada de dados
 		System.out.print("Informe o valor do raio: ");
 		//leitura do valor do raio
-		raio = sc.nextDouble(); //converte a entrada para o tipo double
+		raio = teclado.nextDouble(); //converte a entrada para o tipo double
 		
 		//processamento
 		//valor do PI 3.14159
@@ -28,9 +28,6 @@ public class AppCircunferencia {
 		
 		//saída de dados - apresentando os valores calculados
 		System.out.println("Area = " + area + " Comprimento = " + comprimento);
-		
-		//fechando o objeto sc
-		sc.close();
 
 	}
 }
