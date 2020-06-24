@@ -6,4 +6,5 @@ Para baixar a lista de exercícios em pdf [clique aqui](https://github.com/cidac
 
 ***
 Os exercícios foram feitos utilizando a IDE Elicpse.
+
 Versão do Java: 1.8
