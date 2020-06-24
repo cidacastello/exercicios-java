@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\Cida\ProjetosGitHub\exercicios-java\exercicios-codigo-fonte\.metadata\.plugins\org.eclipse.jdt.core
+858989570.index
+2538946849.index
+1148937498.index
+3403643533.index
+2200875372.index
+3166927587.index
+3720716507.index
+4159017284.index
+711050520.index
+3450831843.index
+3839578677.index
+3993276655.index
+1542774334.index
+615226062.index
+2609714019.index
+686889833.index
+2973695523.index
+1741647643.index
+561689436.index
