@@ -5,6 +5,6 @@
 Para baixar a lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/exercicios-java/tree/master/lista-de-exercicios)
 
 ***
-Os exercícios foram feitos utilizando a IDE Elicpse.
+Os exercícios foram desenvolvidos utilizando a IDE Elicpse.
 
 Versão do Java: 1.8
